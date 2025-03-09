@@ -33,20 +33,52 @@
 
 #	How-To: Translate this thang!
 
-**[NOTE: Before you decide to make a translation, check the "Issues" tab to see if someone else is already working on it! Maybe you can collaborate. And if no one else is, please create a new Issue in this repo so that others know you're working on it!]**
+**[IMPORTANT:
+BEFORE YOU DECIDE TO MAKE A TRANSLATION, CHECK THE "ISSUES" TAB ABOVE,
+TO SEE IF SOMEONE ELSE IS ALREADY WORKING ON IT.
+If so, maybe you can collaborate!
+And if no one else is, PLEASE CREATE A NEW ISSUE in this repo
+so that others know you're working on it!]**
 
 Translations done so far:
-[Chinese](http://sekai.co/trust/),
+[Japanese](https://htlife.github.io/trust_jp/),
+[Chinese (Simplified)](https://sekai.co/trust/),
 [Chinese (Taiwan)](https://audreyt.github.io/trust-zh-TW/),
 [Brazilian Portuguese](https://brunolemos.github.io/trust/),
 [French](https://ayowel.github.io/trust/),
 [Spain Spanish](https://ccamara.github.io/trust/),
-[Russian](https://likzet.github.io/trust/),
+[Latin American Spanish](https://maeriens.github.io/trust/),
+[Russian](https://notdotteam.github.io/trust/),
 [German](https://jkoelling.github.io/trust/),
 [Italian](https://lvdt.github.io/trust/),
 [Turkish](https://osaatcioglu.github.io/trust),
-[Greek](https://lightspot21.github.io/trust)
-
+[Polish](https://sin.github.io/trust/),
+[Vietnamese](https://nghiatt90.github.io/trust-vn/),
+[Greek](https://lightspot21.github.io/trust/),
+[Persian/Farsi](https://hamed.github.io/trust/),
+[Hungarian](http://ncase.me/trust-hu/),
+[Catalan](https://fbricart.github.io/trust/),
+[Arabic](https://mudaraljundi.github.io/trust/),
+[Bulgarian](http://ncase.me/trust-bg/),
+[Korean](https://osori.github.io/trust-ko/),
+[Romanian](https://enfactorial.github.io/trust/),
+[Ukrainian](https://yaroslav-f.github.io/trust/),
+[Croatian](http://www.varljiv.org/evolucija-povjerenja/index.html),
+[Swedish](http://trust.alicedarner.se/),
+[Estonian](http://ncase.me/trust-et/),
+[Czech](https://nextghost.github.io/trust/),
+[Latvian](https://reversedfate.github.io/trust/),
+[Dutch](https://rayraz.github.io/trust/),
+[Finnish](https://1luap.github.io/trust/),
+[Danish](https://mok0.github.io/trust/),
+[Bahasa Indonesia](https://chairulakmal.github.io/trust/)
+[Albanian](https://kreshnik.github.io/trust/),
+[Macedonian](https://stosto2.github.io/trust/),
+[Slovenian](https://matejko124.github.io/trust/),
+[Armenian](https://kamee.gitlab.io/trust/),
+[Filipino (Tagalog)](https://tiwalaph.github.io/TiwalaPH/),
+[Esperanto](https://januscahill.github.io/trust/),
+[Thai](http://myhtmlcopy.epizy.com/trust/)
 
 **Step 1)** Fork or download this repo    
 (if you're forking it, be sure to make sure *your* repo is on a branch called `gh-pages`, so that GitHub can automatically generate a webpage for it!)
